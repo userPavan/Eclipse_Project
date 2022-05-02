@@ -1,0 +1,35 @@
+Apr 11, 2022 1:11:28 PM newproject.loggers main
+WARNING: Exceptiom
+java.lang.ArithmeticException: / by zero
+	at newproject/newproject.loggers.main(loggers.java:35)
+
+Apr 11, 2022 1:12:02 PM newproject.loggers main
+WARNING: Exceptiom
+java.lang.ArithmeticException: / by zero
+	at newproject/newproject.loggers.main(loggers.java:35)
+
+Apr 11, 2022 1:28:09 PM newproject.loggers main
+WARNING: Exceptiom
+java.lang.ArithmeticException: / by zero
+	at newproject/newproject.loggers.main(loggers.java:36)
+
+Apr 18, 2022 10:50:37 AM newproject.loggers main
+WARNING: Exceptiom
+java.lang.ArithmeticException: / by zero
+	at newproject/newproject.loggers.main(loggers.java:37)
+
+Apr 18, 2022 10:50:56 AM newproject.loggers main
+WARNING: Exceptiom
+java.lang.ArithmeticException: / by zero
+	at newproject/newproject.loggers.main(loggers.java:37)
+
+Apr 18, 2022 11:05:16 AM newproject.loggers main
+WARNING: Exceptiom
+java.lang.ArithmeticException: / by zero
+	at newproject/newproject.loggers.main(loggers.java:37)
+
+Apr 18, 2022 11:06:48 AM newproject.loggers main
+WARNING: Exceptiom
+java.lang.ArithmeticException: / by zero
+	at newproject/newproject.loggers.main(loggers.java:37)
+
